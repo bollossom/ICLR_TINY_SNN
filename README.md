@@ -28,7 +28,16 @@ args:
 5.checkpoint: checkpoint path (if use pretrained model) <br>
 6.device: device id of gpu, default 0 <br>
 # Result
-
+![avatar](result.png)
+# Generated images
+## MNIST
+![avatar](MNIST.png)
+## FMNIST
+![avatar](FMNIST.png)
+## CIFAR10
+![avatar](CIFAR10.png)
+## CelebA
+![avatar](CelebA.png)
 If you find ALIF and TAID  module useful in your work, please cite the following source:
 ~~~
 @misc{
